@@ -1,0 +1,35 @@
+<div class="container">
+  <h2>
+    Mes expériences
+  </h2>
+</div>
+
+<tr *ngFor="let expe of this.experiences">
+<div id="containeur">
+<div class="card">
+  <div>
+    <h4>{{ expe.an }}</h4>
+  </div>
+  <div>
+    <h5>
+      {{ expe.titre }}
+    </h5>
+    <a href="{{ expe.ancre }}" class="card-link">{{ expe.site }}</a>
+    <ul>
+      <li>
+        {{ expe.description1 }}
+      </li>
+      <li>
+        {{ expe.description2 }}
+      </li>
+      <li>
+        {{ expe.description3 }}
+      </li>
+      <li>
+        {{ expe.description4 }}
+      </li>
+    </ul>
+  </div>
+</div>
+</div>
+</tr>

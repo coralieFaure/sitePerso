@@ -1,0 +1,23 @@
+.container {
+  color: ghostwhite;
+  margin-top: 50px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 45px;
+}
+
+#contaneur {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+img {
+  width: 80px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-left: 90px;
+}

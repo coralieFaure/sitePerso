@@ -1,0 +1,7 @@
+.parallax-effect {
+  background-image: url("assets/images/fond.jpg");
+  min-height: 600px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

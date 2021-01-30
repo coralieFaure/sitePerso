@@ -1,0 +1,30 @@
+<div class="container">
+  <h2>
+    Ma Formation
+  </h2>
+</div>
+
+<tr *ngFor="let form of this.formations">
+<div id="conteneur">
+<div class="card">
+  <div>
+    <h4>{{ form.an }}</h4>
+  </div>
+  <div>
+    <h5>
+      {{ form.titre }}
+      {{ form.titre2 }}
+    </h5>
+    <ul>
+      <li>
+        {{ form.description1 }}
+      </li>
+      <li>
+        {{ form.description2 }}
+      </li>
+    </ul>
+  </div>
+  <a href="{{ form.ancre }}" class="card-link">{{ form.site }}</a>
+</div>
+</div>
+</tr>

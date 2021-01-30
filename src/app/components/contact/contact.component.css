@@ -1,0 +1,38 @@
+.profil {
+  margin-top: 25px;
+  margin-left: 100px;
+  font-family: 'Indie Flower', cursive;
+  color: ghostwhite;
+  font-size: 22px;
+}
+
+h2 {
+  font-size: 55px;
+  font-weight: bold;
+  color: ghostwhite;
+  margin-left: 100px;
+  font-family: 'Indie Flower', cursive;
+}
+
+h4 {
+  color: #6D0C63;
+  font-weight: bold;
+  font-size: 34px;
+}
+
+a {
+  color: ghostwhite;
+  text-decoration: none;
+}
+
+.home {
+  font-family: 'Indie Flower', cursive;
+  text-align: right;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+a:hover {
+  color: #FEC7F6;
+  font-weight: bold;
+}

@@ -1,0 +1,111 @@
+{
+  "experience" : [
+    {
+      "id": 1,
+      "an": "2020",
+      "titre": "stage développeur web",
+      "ancre": "https://www.hl-communication.fr/",
+      "site": "HL Communication, Saint Chamond",
+      "description1": "Réalisation de divers site Wordpress",
+      "description2": "Référencement naturel (SEO (Search Engine Optimization))",
+      "description3": "Intégration graphique",
+      "description4": "création de plugin"
+    },
+    {
+      "id": 2,
+      "an": "2014 à 2020",
+      "ancre": "https://www.facebook.com/%C3%89den-Roc-1089290944608700",
+      "site": "Edenroc Café, Saint-Genest-Malifaux",
+      "titre": "serveuse",
+      "description1": "Service des clients",
+      "description2": "Accueil des clients",
+      "description3": "Cuisine des repas de midi",
+      "description4": "Ménage des locaux"
+    },
+    {
+      "id": 3,
+      "an": "2010 à 2014",
+      "titre": "Téléconseillère",
+      "ancre": "https://www.sitel.com/",
+      "site": "Acticall (Sitel), Saint-Jean-Bonnefond",
+      "description1": "Réception d'appel",
+      "description2": "Traitement des demandes clients en front-office",
+      "description3": "Réception des demandes clients complexes",
+      "description4": "Traitement des dossier complexes en back-office"
+    },
+    {
+      "id": 4,
+      "an": "2004 à 2010",
+      "titre": "Intérimaire",
+      "site": "Divers Agences interimaire",
+      "description1": "Ménages chez les personnes âgées",
+      "description2": "Prise de rendez-vous téléphonique pour livraison",
+      "description3": "Travail à la chaine dans usines alimentaire",
+      "description4": "Serveuse dans divers restaurants"
+    }
+  ],
+  "formations" : [
+    {
+      "id": 1,
+      "an": "Mars 2020 à Décembre 2020",
+      "titre": "Formation Développeur web/web mobile",
+      "titre2": "Diplôme d'Etat niveau bac+2",
+      "description1": "Développer la partie front-end/back-end d'une application web en intégrant les recommandations de sécurité",
+      "description2": "Développement de la méthode Agile (SCRUM)",
+      "ancre": "https://www.humanbooster.com/",
+      "site": "Human Booster, Saint-Etienne"
+    },
+    {
+      "id": 2,
+      "an": "Septembre 1998 à juin 1999",
+      "titre": "Niveau Bac STT Administratif",
+      "titre2": "STT (Science et Technologie du Tertiaire",
+      "description1": "Informatique de base",
+      "description2": "Traitement de texte/ Tableur / Base de données ACCESS",
+      "ancre": "https://georges-brassens.ent.auvergnerhonealpes.fr/",
+      "site": "Lycée Georges Brassens, Rive-De-Gier"
+    }
+    ],
+  "competences": [
+    {
+      "id": 1,
+      "img": "assets/images/css3.jpg",
+      "alt": "CSS3"
+    },
+    {
+      "id": 2,
+      "img": "assets/images/angular.jpg",
+      "alt": "angular"
+    },
+    {
+      "id": 3,
+      "img": "assets/images/html5.jpg",
+      "alt": "html5"
+    },
+    {
+      "id": 4,
+      "img": "assets/images/php.jpg",
+      "alt": "php"
+    },
+    {
+      "id": 5,
+      "img": "assets/images/mysql.jpg",
+      "alt": "mysql"
+    },
+    {
+      "id": 6,
+      "img": "assets/images/wordpress.jpg",
+      "alt": "wordpress"
+    },
+    {
+      "id": 7,
+      "img": "assets/images/symfony.jpg",
+      "alt": "symfony"
+    },
+    {
+      "id": 8,
+      "img": "assets/images/bootstrap.jpg",
+      "alt": "bootstrap"
+    }
+  ]
+}

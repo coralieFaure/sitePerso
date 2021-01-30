@@ -1,0 +1,13 @@
+<div class="container">
+  <h2>
+    Mes compétences
+  </h2>
+</div>
+
+<tr *ngFor="let compe of this.competences">
+<div id="contaneur">
+    <div class="wrapper">
+      <img src="{{ compe.img }}" alt="{{ compe.alt }}">
+    </div>
+</div>
+</tr>
